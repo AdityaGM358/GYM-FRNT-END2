@@ -30,5 +30,7 @@ Please note that this project solely provides the front-end implementation and d
 
 Feel free to explore and customize the Gym Subscription Website project to suit your specific requirements and design preferences.
 
+GETTING STARTED: To run the program i have used visual studio code. It is necessary to download the live server extension. Very simple to run otherwise.
+
 Contribution Guidelines
 We welcome contributions from the open-source community to enhance the functionality, performance, and documentation of these projects. If you're interested in contributing, please follow the guidelines outlined in our CONTRIBUTING.md file. We appreciate all types of contributions, from bug reports and feature requests to code improvements and documentation updates.
