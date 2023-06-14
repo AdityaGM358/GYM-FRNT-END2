@@ -24,11 +24,14 @@ Technologies Used
 The Gym Subscription Website project primarily focuses on front-end development and design. The key technologies and languages used in this project include:
 
 HTML: Markup language for creating the website's structure and content.
+
 CSS: Styling language for enhancing the website's appearance and layout.
+
 JavaScript: Programming language for adding interactivity and dynamic functionality to the website.
 Please note that this project solely provides the front-end implementation and design. For a fully functional website, it needs to be integrated with a back-end framework and a database to handle user authentication, subscription management, and other dynamic features.
 
 Feel free to explore and customize the Gym Subscription Website project to suit your specific requirements and design preferences.
+
 
 GETTING STARTED: To run the program i have used visual studio code. It is necessary to download the live server extension. Very simple to run otherwise.
 
